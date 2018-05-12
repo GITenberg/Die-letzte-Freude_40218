@@ -1,0 +1,31 @@
+_repo: Die-letzte-Freude_40218
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40218-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ball-Hennings, Emmy
+    aliases:
+    - Ball, Emmy Hennings
+    - Hennings, Emmy
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '40488'
+    url: http://www.gutenberg.org/2009/agents/40488
+    wikipedia: http://de.wikipedia.org/wiki/Emmy_Hennings
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40218'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+title: Die letzte Freude
+url: http://www.gutenberg.org/ebooks/40218
