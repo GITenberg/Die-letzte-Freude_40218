@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40488
     wikipedia: http://de.wikipedia.org/wiki/Emmy_Hennings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40218#Die-letzte-Freude
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2012-07-12'
 gutenberg_type: Text
